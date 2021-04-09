@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authority_common/authority_common.iml" filepath="$PROJECT_DIR$/authority_common/authority_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authority_domain/authority_domain.iml" filepath="$PROJECT_DIR$/authority_domain/authority_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authority_mapper/authority_mapper.iml" filepath="$PROJECT_DIR$/authority_mapper/authority_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authority_service/authority_service.iml" filepath="$PROJECT_DIR$/authority_service/authority_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authority_system.iml" filepath="$PROJECT_DIR$/authority_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authority_web/authority_web.iml" filepath="$PROJECT_DIR$/authority_web/authority_web.iml" />
+    </modules>
+  </component>
+</project>

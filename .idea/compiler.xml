@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authority_common" />
+        <module name="authority_mapper" />
+        <module name="authority_domain" />
+        <module name="authority_service" />
+        <module name="authority_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authority_common" target="1.8" />
+      <module name="authority_domain" target="1.8" />
+      <module name="authority_mapper" target="1.8" />
+      <module name="authority_service" target="1.8" />
+      <module name="authority_system" target="1.8" />
+      <module name="authority_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
